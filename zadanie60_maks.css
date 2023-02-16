@@ -13,3 +13,7 @@ div#blok3_maksymiuk
   width: 613px;
   background-color: #00FF00
 }
+div#blok1_maksymiuk :hover 
+{
+  width: 613px;height: 100px;color: #ffffff
+}
