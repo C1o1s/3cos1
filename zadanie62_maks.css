@@ -1,14 +1,19 @@
+body
+{
+ background color: silver; 
+}
 p
 {
-font-size:14pt;
-color:navy;
+font-size:19pt;
+color:rgb(255, 166, 0);
 }
 p:lang(pl)
 {
-font-weight:bold;
-color:black;
+  font-size:26pt;
+color:rgb(203, 242, 94);
 }
 p:lang(en)
 {
-font-style:italic;
+  font-size:33pt;
+color:rgb(189, 173, 32);
 }
